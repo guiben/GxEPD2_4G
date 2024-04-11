@@ -52,6 +52,7 @@
 #if __has_include("gdey/GxEPD2_213_GDEY0213B74.h")
 #include "gdey/GxEPD2_213_GDEY0213B74.h"
 #endif
+#include "epd/GxEPD2_213_T5D.h"
 #include "epd/GxEPD2_290_T5.h"
 #include "epd/GxEPD2_290_T5D.h"
 #include "epd/GxEPD2_290_I6FD.h"
